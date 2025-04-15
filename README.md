@@ -1,6 +1,4 @@
-Description:
-
-Indexes and searches through local `.txt` and `.log` files using a custom inverted index.
+Description: Indexes and searches through local `.txt`, `.md`,`.log` or any other files using a custom inverted index
 
 How it works:
 - Crawler collects all files mentioned in the function arguments. Specify file type by using '.extension'
