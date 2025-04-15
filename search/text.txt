@@ -1,0 +1,4 @@
+hello this is getting ridiculous. Creating a file crawler is tough man.
+
+But for those of you who might know what a crawler is, it is a terminology given to a "bot" which performs or achieves and automation of sorts 
+for carrying out a task of finding something. It is similar to web scraper (if you have any idea what that is).
